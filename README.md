@@ -1,4 +1,4 @@
-#AzikMobi payment system
+#AzikMobi
 I learned from zero to JSON in python so I desided to make an application for payments. It is actually works well.
 I spent for 7 hours but it is worth
 I used may modules and other methods.
